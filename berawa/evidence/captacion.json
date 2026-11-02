@@ -1,0 +1,31 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "hotel-nastasi-lleida",
+ "maps": {
+  "fecha": "2026-10-29T16:48:05+01:00",
+  "estado": "LEIDA",
+  "ficha": "Nastasi Hotel & Spa | Lleida",
+  "nota": 4.1,
+  "coincide": {
+   "tel": false,
+   "web": true,
+   "dir": false
+  },
+  "url": "https://www.google.com/maps/place/Nastasi+Hotel+%26+Spa+%7C+Lleida/@41.63071,0.59598,17z/data=!3m1!5s0x12a71fd74c5789c7:0x353549d33c8de100!4m9!3m8!1s0x12a6e080ed1a5b2f:0x78d73c482f2d8deb!5m2!4m1!1i2!8m2!3d41.63071!4d0.59598!16s%2Fg%2F113flyh3r",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T16:48:05+01:00",
+  "veredicto": "MALA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "Titular con CIF B25745936",
+  "cif": "B25745936",
+  "fuente": "aviso legal de https://www.hotelnastasi.com (fin-de-ano/aviso-legal-2): propietario Hotel Nastasi, CIF B25745936",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "un solo hotel; la web no presenta otros centros; sin brand/operator en OSM"
+ }
+}

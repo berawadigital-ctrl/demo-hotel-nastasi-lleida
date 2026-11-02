@@ -1,0 +1,396 @@
+{
+ "url": "http://127.0.0.1:37589/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay habitaciones estándar: doble con dos camas, cuádruple interior, triple y habitación con cama matrimonial. También junior suites y suites"
+    },
+    {
+     "q": "¿Tenéis suites?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Hay junior suites temáticas y suites, solo para adultos, cada una con su propia ambientación. Se reservan exclusivamente llamando al 973 249"
+    },
+    {
+     "q": "¿Hay spa?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí, el hotel tiene spa y piscina. Para la oferta de spa de fin de semana, contacta con el hotel y consulta las condiciones."
+    },
+    {
+     "q": "¿Hay gimnasio?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, hay zona fitness, con gimnasio y piscina."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, el hotel tiene parking vigilado gratuito."
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, hay desayuno bufet, con opciones saludables y alimentos frescos. El restaurante está cerrado por remodelación."
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "El check-in es a partir de las 16.30 h y el check-out hasta las 12.00 h."
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Está en la Avenida Alcalde Rovira Roure, 214, 25198 Lleida."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar llamando al 973 24 92 22 o escribiendo a reservas@hotelnastasi.com (botón Reservar). Este asistente no confirma disponibilid"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar llamando al 973 24 92 22 o escribiendo a reservas@hotelnastasi.com (botón Reservar). Este asistente no confirma disponibilid"
+    },
+    {
+     "q": "¿Tenéis estudios para larga estancia?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sí, el Living Resort tiene estudios con cocina y apartamentos de un dormitorio, con servicios de hotel. Para estancias de más de 10 días hay"
+    },
+    {
+     "q": "¿Hay recepción 24 horas?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Sí, hay servicio de recepción las 24 h."
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 973 24 92 22 · reservas@hotelnastasi.com · hotelnastasi@hotelnastasi.com."
+    },
+    {
+     "q": "¿Tenéis campo de golf?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 973 24 92 22 · reservas@hotelnastasi.com · hotelnastasi@hotelnastasi.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Hay spa?",
+    "¿Hay parking?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are standard rooms: double with two beds, interior quadruple, triple and a room with a double bed. There are also junior suites and th"
+    },
+    {
+     "q": "Do you have suites?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "There are themed junior suites and suites, adults only, each with its own setting. They are booked exclusively by calling 973 249 222."
+    },
+    {
+     "q": "Is there a spa?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes, the hotel has a spa and a pool. For the weekend spa offer, contact the hotel and ask about the conditions."
+    },
+    {
+     "q": "Is there a gym?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes, there is a fitness area, with a gym and pool."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes, the hotel has free supervised parking."
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Yes, there is a buffet breakfast, with healthy options and fresh food. The restaurant is closed for refurbishment."
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Check-in is from 16.30 and check-out until 12.00."
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "It is at Avenida Alcalde Rovira Roure, 214, 25198 Lleida."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book by calling 973 24 92 22 or emailing reservas@hotelnastasi.com (Book button). This assistant does not confirm availability or bo"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book by calling 973 24 92 22 or emailing reservas@hotelnastasi.com (Book button). This assistant does not confirm availability or bo"
+    },
+    {
+     "q": "Do you have studios for long stays?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Yes, the Living Resort has studios with kitchen and one-bedroom apartments, with hotel services. For stays over 10 days there are special ra"
+    },
+    {
+     "q": "Is reception open 24 hours?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Yes, there is a 24 h reception service."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 973 24 92 22 · reservas@hotelnastasi.com · hotelnastasi@hotelnastasi.com."
+    },
+    {
+     "q": "Do you have a golf course?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 973 24 92 22 · reservas@hotelnastasi.com · hotelnastasi@hotelnastasi.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "Is there a spa?",
+    "Is there parking?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a des chambres standard : double à deux lits, quadruple intérieure, triple et chambre avec lit double. Il y a aussi des junior suites e"
+    },
+    {
+     "q": "Avez-vous des suites ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Il y a des junior suites thématiques et des suites, réservées aux adultes, chacune avec sa propre ambiance. Elles se réservent exclusivement"
+    },
+    {
+     "q": "Y a-t-il un spa ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui, l’hôtel dispose d’un spa et d’une piscine. Pour l’offre spa du week-end, contactez l’hôtel et demandez les conditions."
+    },
+    {
+     "q": "Y a-t-il une salle de sport ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui, il y a un espace fitness, avec salle de sport et piscine."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui, l’hôtel dispose d’un parking surveillé gratuit."
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Oui, il y a un petit-déjeuner buffet, avec des options saines et des produits frais. Le restaurant est fermé pour rénovation."
+    },
+    {
+     "q": "À quelle heure est l’arrivée ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "L’arrivée se fait à partir de 16.30 h et le départ jusqu’à 12.00 h."
+    },
+    {
+     "q": "Où se trouve l’hôtel ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Il se trouve Avenida Alcalde Rovira Roure, 214, 25198 Lleida."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver en appelant le 973 24 92 22 ou en écrivant à reservas@hotelnastasi.com (bouton Réserver). Cet assistant ne confirme ni "
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver en appelant le 973 24 92 22 ou en écrivant à reservas@hotelnastasi.com (bouton Réserver). Cet assistant ne confirme ni "
+    },
+    {
+     "q": "Avez-vous des studios pour longs séjours ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Oui, le Living Resort propose des studios avec cuisine et des appartements d’une chambre, avec services hôteliers. Pour les séjours de plus "
+    },
+    {
+     "q": "La réception est-elle ouverte 24 h/24 ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Oui, il y a un service de réception 24 h/24."
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 973 24 92 22 · reservas@hotelnastasi.com · hotelnastasi@hotelnastasi.com."
+    },
+    {
+     "q": "Avez-vous un terrain de golf ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 973 24 92 22 · reservas@hotelnastasi.com · hotelnastasi@hotelnastasi.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Y a-t-il un spa ?",
+    "Y a-t-il un parking ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt Standardzimmer: Doppelzimmer mit zwei Betten, innenliegendes Vierbettzimmer, Dreibettzimmer und ein Zimmer mit Doppelbett. Außerdem "
+    },
+    {
+     "q": "Haben Sie Suiten?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Es gibt thematische Junior-Suiten und Suiten, nur für Erwachsene, jede mit eigenem Ambiente. Sie werden ausschließlich telefonisch unter 973"
+    },
+    {
+     "q": "Gibt es ein Spa?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ja, das Hotel hat ein Spa und einen Pool. Für das Wochenend-Spa-Angebot kontaktieren Sie bitte das Hotel und fragen nach den Bedingungen."
+    },
+    {
+     "q": "Gibt es einen Fitnessraum?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja, es gibt einen Fitnessbereich mit Fitnessraum und Pool."
+    },
+    {
+     "q": "Gibt es Parkplätze?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ja, das Hotel hat einen kostenlosen bewachten Parkplatz."
+    },
+    {
+     "q": "Gibt es Frühstück?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Ja, es gibt ein Frühstücksbuffet mit gesunden Optionen und frischen Speisen. Das Restaurant ist wegen Umbau geschlossen."
+    },
+    {
+     "q": "Ab wann ist der Check-in?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Check-in ab 16.30 Uhr, Check-out bis 12.00 Uhr."
+    },
+    {
+     "q": "Wo liegt das Hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Es liegt an der Avenida Alcalde Rovira Roure, 214, 25198 Lleida."
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können unter 973 24 92 22 anrufen oder an reservas@hotelnastasi.com schreiben (Schaltfläche Buchen). Dieser Assistent bestätigt weder Ve"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können unter 973 24 92 22 anrufen oder an reservas@hotelnastasi.com schreiben (Schaltfläche Buchen). Dieser Assistent bestätigt weder Ve"
+    },
+    {
+     "q": "Haben Sie Studios für längere Aufenthalte?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Ja, das Living Resort hat Studios mit Küche und Apartments mit einem Schlafzimmer, mit Hotelservice. Für Aufenthalte über 10 Tage gibt es So"
+    },
+    {
+     "q": "Ist die Rezeption rund um die Uhr besetzt?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Ja, es gibt einen 24-h-Rezeptionsservice."
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 973 24 92 22 · reservas@hotelnastasi.com · hotelnastasi@hotelnas"
+    },
+    {
+     "q": "Haben Sie einen Golfplatz?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 973 24 92 22 · reservas@hotelnastasi.com · hotelnastasi@hotelnas"
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Gibt es ein Spa?",
+    "Gibt es Parkplätze?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

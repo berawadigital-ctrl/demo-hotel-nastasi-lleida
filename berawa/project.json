@@ -1,0 +1,64 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-nastasi-lleida",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-11-02T06:42:00+01:00",
+ "updated_at": "2026-11-02T07:05:00+01:00",
+ "business": {
+  "name": "Hotel Nastasi",
+  "legal_name": "Titular con CIF B25745936 (aviso legal de su web)",
+  "registry_ids": [
+   "B25745936"
+  ],
+  "url": "https://www.hotelnastasi.com/",
+  "domain": "hotelnastasi.com",
+  "municipality": "Lleida",
+  "province": "Lleida",
+  "address": "Avenida Alcalde Rovira Roure, 214 · 25198 Lleida",
+  "phones": [
+   "+34 973 24 92 22"
+  ],
+  "emails": [
+   "reservas@hotelnastasi.com",
+   "hotelnastasi@hotelnastasi.com"
+  ],
+  "sector": "hotel y spa con habitaciones, suites tematicas solo para adultos y estudios de larga estancia en Lleida"
+ },
+ "rating": {
+  "value": 4.1,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por web)",
+  "url": "https://www.google.com/maps/place/Nastasi+Hotel+%26+Spa+%7C+Lleida/@41.63071,0.59598,17z",
+  "date": "2026-10-29",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "mail",
+  "url": "mailto:reservas@hotelnastasi.com",
+  "note": "sin motor de reservas propio verificable: su web dice «Reservas exclusivas llamando al +34 973 249 222». Los botones Reservar abren un correo a reservas@hotelnastasi.com (correo de su pagina de contacto) y el telefono real 973 24 92 22 va en tel:. Decision de Juan 30/10/2026."
+ },
+ "audit_original": {
+  "url": "https://www.hotelnastasi.com/",
+  "date": "2026-11-02T06:42:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
