@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hotelnastasi.com/",
+ "read_at": "2026-11-02T06:43:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hotelnastasi.com/",
+   "sha256": "b5596265cba853a55d4142a16096651c9fc8b7d8d248aca989e17f0ce19076db",
+   "chars": 3575
+  },
+  {
+   "url": "https://www.hotelnastasi.com/contacto/",
+   "sha256": "a00ba3a3ed47215e85959993ba9e2fba96694e89327fc476dce84e74ff7e2320",
+   "chars": 960
+  },
+  {
+   "url": "https://www.hotelnastasi.com/habitaciones-estandar/",
+   "sha256": "b8eb3ab4c89f5fce18641560961060ba24cec1d663cd7c2dbe0e912b0530db95",
+   "chars": 827
+  },
+  {
+   "url": "https://www.hotelnastasi.com/larga-estancia/",
+   "sha256": "3a3fb77874778dc0ef0b3ce71b92b7f65a015ef006f77edee3f52e679823ae76",
+   "chars": 932
+  },
+  {
+   "url": "https://www.hotelnastasi.com/reserva/",
+   "sha256": "7f1d63283442ed5f0316d1328126fce9bc90a6ad7503166906748e58b0bb4221",
+   "chars": 806
+  },
+  {
+   "url": "https://www.hotelnastasi.com/servicios/",
+   "sha256": "8b13c61b1fee96c146da4ac99883d440403dce157e80fc66d7a0b9791f232cfe",
+   "chars": 2010
+  },
+  {
+   "url": "https://www.hotelnastasi.com/suites-tematicas-y-junior-suites/",
+   "sha256": "8adbbb2838fd33c78dd6553de856b8c3c5b57f7383d7278c3bdcd289eca790a9",
+   "chars": 1515
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hotelnastasi.com",
+  "https://www.hotelnastasi.com/fin-de-ano/",
+  "https://www.hotelnastasi.com/fin-de-ano/aviso-legal-2/",
+  "https://www.hotelnastasi.com/fin-de-ano/carrito/",
+  "https://www.hotelnastasi.com/fin-de-ano/politica-de-cookies-2/",
+  "https://www.hotelnastasi.com/fin-de-ano/producto/nastasi-new-year-2025-2026/",
+  "https://www.hotelnastasi.com/fin-de-ano/producto/nastasi-new-year/",
+  "https://www.hotelnastasi.com/fin-de-ano/proteccion-de-datos/",
+  "https://www.hotelnastasi.com/fin-de-ano/tienda/",
+  "https://www.hotelnastasi.com/fin-de-ano/tienda/?add-to-cart=643",
+  "https://www.hotelnastasi.com/galeria/",
+  "https://www.hotelnastasi.com/habitaciones/",
+  "https://www.hotelnastasi.com/marrakech/",
+  "https://www.hotelnastasi.com/mil-y-una-noches/",
+  "https://www.hotelnastasi.com/savage/",
+  "https://www.hotelnastasi.com/suite-50-sombras/",
+  "https://www.hotelnastasi.com/suite-mazmorra/",
+  "https://www.hotelnastasi.com/sweet-dreams/"
+ ]
+}

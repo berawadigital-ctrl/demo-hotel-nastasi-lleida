@@ -1,0 +1,468 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-nastasi-lleida",
+ "source_site": "https://www.hotelnastasi.com/",
+ "source_read_at": "2026-11-02T06:43:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "habitacion",
+     "triple",
+     "cuadruple"
+    ],
+    "en": [
+     "rooms",
+     "triple",
+     "quadruple"
+    ],
+    "fr": [
+     "chambres",
+     "triple",
+     "quadruple"
+    ],
+    "de": [
+     "zimmer",
+     "dreibett",
+     "vierbett"
+    ]
+   },
+   "a": {
+    "es": "Hay habitaciones estándar: doble con dos camas, cuádruple interior, triple y habitación con cama matrimonial. También junior suites y suites temáticas, solo para adultos.",
+    "en": "There are standard rooms: double with two beds, interior quadruple, triple and a room with a double bed. There are also junior suites and themed suites, adults only.",
+    "fr": "Il y a des chambres standard : double à deux lits, quadruple intérieure, triple et chambre avec lit double. Il y a aussi des junior suites et des suites thématiques, réservées aux adultes.",
+    "de": "Es gibt Standardzimmer: Doppelzimmer mit zwei Betten, innenliegendes Vierbettzimmer, Dreibettzimmer und ein Zimmer mit Doppelbett. Außerdem Junior-Suiten und Themensuiten, nur für Erwachsene."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelnastasi.com/habitaciones-estandar/",
+     "quote": "HABITACIÓN DOBLE CON DOS CAMAS"
+    },
+    {
+     "url": "https://www.hotelnastasi.com/habitaciones-estandar/",
+     "quote": "HABITACIÓN CUÁDRUPLE INTERIOR"
+    },
+    {
+     "url": "https://www.hotelnastasi.com/habitaciones-estandar/",
+     "quote": "HABITACIÓN TRIPLE"
+    },
+    {
+     "url": "https://www.hotelnastasi.com/habitaciones-estandar/",
+     "quote": "HABITACIÓN CON CAMA MATRIMONIAL ESTÁNDAR"
+    },
+    {
+     "url": "https://www.hotelnastasi.com/suites-tematicas-y-junior-suites/",
+     "quote": "Suites (sólo Adultos)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "suites",
+   "keys": {
+    "es": [
+     "suite"
+    ],
+    "en": [
+     "suite"
+    ],
+    "fr": [
+     "suite"
+    ],
+    "de": [
+     "suite"
+    ]
+   },
+   "a": {
+    "es": "Hay junior suites temáticas y suites, solo para adultos, cada una con su propia ambientación. Se reservan exclusivamente llamando al 973 249 222.",
+    "en": "There are themed junior suites and suites, adults only, each with its own setting. They are booked exclusively by calling 973 249 222.",
+    "fr": "Il y a des junior suites thématiques et des suites, réservées aux adultes, chacune avec sa propre ambiance. Elles se réservent exclusivement en appelant le 973 249 222.",
+    "de": "Es gibt thematische Junior-Suiten und Suiten, nur für Erwachsene, jede mit eigenem Ambiente. Sie werden ausschließlich telefonisch unter 973 249 222 gebucht."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelnastasi.com/suites-tematicas-y-junior-suites/",
+     "quote": "JÚNIOR SUITES TEMÁTICAS"
+    },
+    {
+     "url": "https://www.hotelnastasi.com/suites-tematicas-y-junior-suites/",
+     "quote": "Suites (sólo Adultos)"
+    },
+    {
+     "url": "https://www.hotelnastasi.com/suites-tematicas-y-junior-suites/",
+     "quote": "Reservas exclusivas llamando al 973 249 222"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "spa",
+   "keys": {
+    "es": [
+     " spa",
+     "piscina"
+    ],
+    "en": [
+     " spa",
+     "pool"
+    ],
+    "fr": [
+     " spa",
+     "piscine"
+    ],
+    "de": [
+     " spa",
+     "pool",
+     "schwimmbad"
+    ]
+   },
+   "a": {
+    "es": "Sí, el hotel tiene spa y piscina. Para la oferta de spa de fin de semana, contacta con el hotel y consulta las condiciones.",
+    "en": "Yes, the hotel has a spa and a pool. For the weekend spa offer, contact the hotel and ask about the conditions.",
+    "fr": "Oui, l’hôtel dispose d’un spa et d’une piscine. Pour l’offre spa du week-end, contactez l’hôtel et demandez les conditions.",
+    "de": "Ja, das Hotel hat ein Spa und einen Pool. Für das Wochenend-Spa-Angebot kontaktieren Sie bitte das Hotel und fragen nach den Bedingungen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelnastasi.com/servicios/",
+     "quote": "Spa y Piscina"
+    },
+    {
+     "url": "https://www.hotelnastasi.com/",
+     "quote": "Oferta de spa de fin de semana Contacta con nosotros y consulta las condiciones."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "gimnasio",
+   "keys": {
+    "es": [
+     "gimnas",
+     "fitness"
+    ],
+    "en": [
+     "gym",
+     "fitness"
+    ],
+    "fr": [
+     "salle de sport",
+     "fitness"
+    ],
+    "de": [
+     "fitness"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay zona fitness, con gimnasio y piscina.",
+    "en": "Yes, there is a fitness area, with a gym and pool.",
+    "fr": "Oui, il y a un espace fitness, avec salle de sport et piscine.",
+    "de": "Ja, es gibt einen Fitnessbereich mit Fitnessraum und Pool."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelnastasi.com/servicios/",
+     "quote": "Zona Fitness"
+    },
+    {
+     "url": "https://www.hotelnastasi.com/",
+     "quote": "Gimnasio y piscina"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "aparcamiento",
+   "keys": {
+    "es": [
+     "parking",
+     "aparc",
+     "coche"
+    ],
+    "en": [
+     "parking",
+     " car",
+     "park "
+    ],
+    "fr": [
+     "parking",
+     "garer",
+     "voiture"
+    ],
+    "de": [
+     "parkpl",
+     "parken",
+     "auto "
+    ]
+   },
+   "a": {
+    "es": "Sí, el hotel tiene parking vigilado gratuito.",
+    "en": "Yes, the hotel has free supervised parking.",
+    "fr": "Oui, l’hôtel dispose d’un parking surveillé gratuit.",
+    "de": "Ja, das Hotel hat einen kostenlosen bewachten Parkplatz."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelnastasi.com/",
+     "quote": "Parking vigilado gratuito"
+    },
+    {
+     "url": "https://www.hotelnastasi.com/servicios/",
+     "quote": "Nuestro estacionamiento garantiza la seguridad de tu vehículo durante tu estancia"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayun"
+    ],
+    "en": [
+     "breakfast"
+    ],
+    "fr": [
+     "dejeuner"
+    ],
+    "de": [
+     "fruhstuck"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay desayuno bufet, con opciones saludables y alimentos frescos. El restaurante está cerrado por remodelación.",
+    "en": "Yes, there is a buffet breakfast, with healthy options and fresh food. The restaurant is closed for refurbishment.",
+    "fr": "Oui, il y a un petit-déjeuner buffet, avec des options saines et des produits frais. Le restaurant est fermé pour rénovation.",
+    "de": "Ja, es gibt ein Frühstücksbuffet mit gesunden Optionen und frischen Speisen. Das Restaurant ist wegen Umbau geschlossen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelnastasi.com/servicios/",
+     "quote": "Desayuno bufet"
+    },
+    {
+     "url": "https://www.hotelnastasi.com/servicios/",
+     "quote": "nuestro bufet ofrece alimentos frescos y sabrosos"
+    },
+    {
+     "url": "https://www.hotelnastasi.com/servicios/",
+     "quote": "Restaurante CERRADO POR REMODELACIÓN"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "horarios",
+   "keys": {
+    "es": [
+     "check",
+     "hora de entrada",
+     "hora de salida"
+    ],
+    "en": [
+     "check"
+    ],
+    "fr": [
+     "arrivee",
+     "depart",
+     "check"
+    ],
+    "de": [
+     "check",
+     "anreise",
+     "abreise"
+    ]
+   },
+   "a": {
+    "es": "El check-in es a partir de las 16.30 h y el check-out hasta las 12.00 h.",
+    "en": "Check-in is from 16.30 and check-out until 12.00.",
+    "fr": "L’arrivée se fait à partir de 16.30 h et le départ jusqu’à 12.00 h.",
+    "de": "Check-in ab 16.30 Uhr, Check-out bis 12.00 Uhr."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelnastasi.com/reserva/",
+     "quote": "Check in: 16.30 h. Check out: 12.00 h."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde esta",
+     "direccion",
+     "ubicacion",
+     "como llegar"
+    ],
+    "en": [
+     "where is",
+     "address",
+     "location",
+     "get there"
+    ],
+    "fr": [
+     "ou se trouv",
+     "adresse",
+     "emplacement"
+    ],
+    "de": [
+     "wo liegt",
+     "adresse",
+     "lage"
+    ]
+   },
+   "a": {
+    "es": "Está en la Avenida Alcalde Rovira Roure, 214, 25198 Lleida.",
+    "en": "It is at Avenida Alcalde Rovira Roure, 214, 25198 Lleida.",
+    "fr": "Il se trouve Avenida Alcalde Rovira Roure, 214, 25198 Lleida.",
+    "de": "Es liegt an der Avenida Alcalde Rovira Roure, 214, 25198 Lleida."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelnastasi.com/contacto/",
+     "quote": "Avenida Alcalde Rovira Roure, 214, 25198, Lleida"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar llamando al 973 24 92 22 o escribiendo a reservas@hotelnastasi.com (botón Reservar). Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can book by calling 973 24 92 22 or emailing reservas@hotelnastasi.com (Book button). This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver en appelant le 973 24 92 22 ou en écrivant à reservas@hotelnastasi.com (bouton Réserver). Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können unter 973 24 92 22 anrufen oder an reservas@hotelnastasi.com schreiben (Schaltfläche Buchen). Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelnastasi.com/contacto/",
+     "quote": "reservas@hotelnastasi.com"
+    },
+    {
+     "url": "https://www.hotelnastasi.com/contacto/",
+     "quote": "973 24 92 22"
+    },
+    {
+     "url": "https://www.hotelnastasi.com/",
+     "quote": "Reservas exclusivas llamando al +34 973 249 222"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K10",
+   "topic": "larga-estancia",
+   "keys": {
+    "es": [
+     "estudio",
+     "larga estancia",
+     "apartamento"
+    ],
+    "en": [
+     "studio",
+     "long stay",
+     "apartment"
+    ],
+    "fr": [
+     "studio",
+     "long sejour",
+     "appartement"
+    ],
+    "de": [
+     "studio",
+     "langere aufenthalt",
+     "apartment"
+    ]
+   },
+   "a": {
+    "es": "Sí, el Living Resort tiene estudios con cocina y apartamentos de un dormitorio, con servicios de hotel. Para estancias de más de 10 días hay tarifas especiales: consúltalas llamando al 973 249 222.",
+    "en": "Yes, the Living Resort has studios with kitchen and one-bedroom apartments, with hotel services. For stays over 10 days there are special rates: ask by calling 973 249 222.",
+    "fr": "Oui, le Living Resort propose des studios avec cuisine et des appartements d’une chambre, avec services hôteliers. Pour les séjours de plus de 10 jours, il existe des tarifs spéciaux : renseignez-vous au 973 249 222.",
+    "de": "Ja, das Living Resort hat Studios mit Küche und Apartments mit einem Schlafzimmer, mit Hotelservice. Für Aufenthalte über 10 Tage gibt es Sondertarife: bitte unter 973 249 222 erfragen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelnastasi.com/",
+     "quote": "Estudios con cocina, con servicios de hotel para largas estancias"
+    },
+    {
+     "url": "https://www.hotelnastasi.com/larga-estancia/",
+     "quote": "APARTAMENTO 1 HABITACIÓN"
+    },
+    {
+     "url": "https://www.hotelnastasi.com/larga-estancia/",
+     "quote": "Para estancias superiores a 10 días consultad tarifas especiales. Reservas exclusivas llamando al 973 249 222"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "recepcion",
+   "keys": {
+    "es": [
+     "recepcion"
+    ],
+    "en": [
+     "reception"
+    ],
+    "fr": [
+     "reception"
+    ],
+    "de": [
+     "rezeption"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay servicio de recepción las 24 h.",
+    "en": "Yes, there is a 24 h reception service.",
+    "fr": "Oui, il y a un service de réception 24 h/24.",
+    "de": "Ja, es gibt einen 24-h-Rezeptionsservice."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelnastasi.com/",
+     "quote": "Servicio de recepción las 24h"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
